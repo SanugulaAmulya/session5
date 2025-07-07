@@ -1,0 +1,6 @@
+#q1{
+    color:red; /* external styling */
+}
+#q4{
+    color: rgb(255, 119, 0); /* internal styling */
+}

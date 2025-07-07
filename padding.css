@@ -1,0 +1,17 @@
+#outerdiv{
+    background:yellow;
+    height:500px;
+    width:500px;
+    padding-left:20px;
+    padding-top:20px;
+}
+#innerdiv1{
+    background:blue;
+    width:200px;
+    height:200px;
+}
+#innerdiv2{
+    background:black;
+    width:200px;
+    height:200px;
+}
